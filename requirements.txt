@@ -1,0 +1,6 @@
+pandas==2.2.2
+sqlalchemy==2.0.35
+aiosqlite==0.20.0
+azure-identity==1.17.1
+agent-framework[azure-ai]==0.1.0
+python-dotenv==1.0.1
